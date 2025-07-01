@@ -1,4 +1,5 @@
-language: generic
+vm:
+  use: build-tester-travis-i1
 
 keys:
   - SSH_KEY_FOR_SIGNING
